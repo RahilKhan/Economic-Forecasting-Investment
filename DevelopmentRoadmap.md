@@ -1,4 +1,3 @@
-To save or download this guide, you can copy the text below and save it as a file named Multi_Agent_Economic_Forecasting.md.
 ------------------------------
 ## Multi-Agent System for Economic Forecasting & Investment
 Building a multi-agent system requires shifting from "predictive models" to a modular architecture where specialized agents handle different data types. For a system focused on financial AI, the design must prioritize data quality layers and system modularity.
